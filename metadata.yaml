@@ -25,6 +25,8 @@ description: "The Nebuly Coat (1903), by J. Meade Falkner, is a suspense novel w
   \ which Falkner was familiar with through his work as Honorary Librarian to the\
   \ Dean and Chapter as well as viewing it from his house on Palace Green.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22943#The-Nebuly-Coat
 gutenberg_issued: '2007-10-11'
 gutenberg_type: Text
 identifiers:
