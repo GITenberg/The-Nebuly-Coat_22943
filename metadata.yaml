@@ -1,0 +1,47 @@
+_repo: The-Nebuly-Coat_22943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Falkner, John Meade
+    alias: Falkner, J. Meade (John Meade)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '3660'
+    url: http://www.gutenberg.org/2009/agents/3660
+    wikipedia: http://en.wikipedia.org/wiki/J._Meade_Falkner
+description: "The Nebuly Coat (1903), by J. Meade Falkner, is a suspense novel which\
+  \ tells of the experiences of a young architect, Edward Westray, who is sent to\
+  \ the remote town of Cullerne to supervise restoration work on Cullerne Minster.\
+  \ He finds himself caught up in Cullerne life, and hears rumours about a mystery\
+  \ surrounding the claim to the title of Lord Blandamer, whose coat of arms in the\
+  \ Minster's great transept window is the nebuly coat of the title. When the new\
+  \ Lord Blandamer arrives, promising to pay all the costs of the restoration, Westray\
+  \ suspects that the new lord is not what he seems.\nThe Nebuly Coat includes elements\
+  \ that were central interests in Falkner's life, church architecture and heraldry.\
+  \ The massive Romanesque arches of Cullerne Minster recall those of Durham Cathedral\
+  \ which Falkner was familiar with through his work as Honorary Librarian to the\
+  \ Dean and Chapter as well as viewing it from his house on Palace Green.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22943'
+  wikidata: Q7753341
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heraldry -- Fiction'
+- !lcsh 'Church architecture -- Conservation and restoration -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Architects -- Fiction'
+- !lcsh 'Dorset (England) -- Fiction'
+- !lcc 'PR'
+title: The Nebuly Coat
+url: http://www.gutenberg.org/ebooks/22943
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Nebuly_Coat
